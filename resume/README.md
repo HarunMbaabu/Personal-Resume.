@@ -1,4 +1,4 @@
-#Personal Resume Using HTML, CSS, Vanilla JavaScript
+# Personal Resume Using HTML, CSS, Vanilla JavaScript
 
 
 ### Basic Usage
