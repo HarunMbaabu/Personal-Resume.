@@ -3,7 +3,7 @@
 ### To clone the application use:
 
 ~~~javascript
-git clone 
+git clone git@github.com:LuxTechAcademy/Personal-Resume..git
 ~~~
 
 
