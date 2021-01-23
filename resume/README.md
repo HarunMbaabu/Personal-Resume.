@@ -1,15 +1,22 @@
 # Personal Resume Using HTML, CSS, Vanilla JavaScript
 
+### To clone the application use:
 
-### Basic Usage
+~~~javascript
+git clone 
+~~~
+
+
+
+### Basic Usage:
 
 After downloading/cloning, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-### Advanced Usage
+### Advanced Usage:
 
 After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
-#### Gulp Tasks
+#### Gulp Tasks:
 
 - `gulp` the default task that builds everything
 - `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
@@ -18,9 +25,4 @@ After installation, run `npm install` and then run `npm start` which will open u
 - `gulp vendor` copies dependencies from node_modules to the vendor directory
 
 You must have npm installed globally in order to use this build environment.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-resume/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/resume/).
-
 
