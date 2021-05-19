@@ -10,7 +10,7 @@
 
 **City:** Nairobi 
 
-**Acheivement:** I have united 12+ different African counties, to form a global data science community across East, South, West and Central africa. 
+**Acheivement:** I have united 12+ different African countries, to form a global data science community across East, South, West and Central africa. 
 
 **Activities:** Speaking at Conferences, organizing hackathons, organizing mentorship program and bootcamps. 
 
